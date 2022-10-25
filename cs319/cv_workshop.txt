@@ -1,0 +1,67 @@
+CV is your marketing product.
+
+Steps: Requirements -> Design -> Implementation -> Verification -> Maintenance
+
+Requirements:
+	-You have many users
+	-Users will spennd < 20 seconds to look at your product(7 seconds in average)
+	-Typical users are: 
+		+HR personnel(no tech. backgroung)(avoid these people if possible...)
+		+enginners
+		+engineering managers
+		+professors
+		+resume screening software(looking for keywords)...
+	-Connections/Networking are important!!!
+	-Your product is a mission critical product:
+		+No minor/major bugs allowed
+		+Based on this you will be offered an interview or not
+	-Differentiate your product from other products(your peers):
+		+Over time, add new(meaningfun) features
+		+Make strategic decision to select these features
+	-An evolutionary product. You will maintain for long long years...
+
+Design:
+	-Use templates, Visuals are important
+	-Add everything that is worthy, leave everything out that iss unworthy
+	-Everything in the CV is the front-end of your product, the back-end is YOU
+	-It is relatively easy to change/improve the front-end
+	-It is difficult to change/improve the back-end of a product:
+		+It would take years to build...
+		+You need a vision...
+		+You would need a strategy...
+		+Overtime, you would need to retire some features...
+		+A bit of it is luck(you can minimize luck)
+	-Architecture of the CV:
+		+Education
+		+Work experience
+		+Projects(Explain in bullet points, talk about design, requirement analysis: Emphasize engineering part, as well as tech.)
+		+Skills
+		+Others(awards, hobbies, volunteering,interests...)
+	-Design of the User Interface
+		+The outlook of your CV matter a lot
+	
+Implementation:
+	-Your product deserves a good name
+	-Always send your CV in PDF format
+	-Absolutely no typos/grammar errors
+	-Show your commitment to staying up-to-date: learn continuously
+	-Show your enthusiasm(hobby projects)
+	-Use powerful action verbs(NOT like " Worked on... or Participated" but like "Implemented... Designed...")
+	-Make it professional: It needs to be somewhat formal
+	-GPA is important(over the years, its importance will fade away, after some time, maybe it won't matter at all)
+	-GPA is (not that) important(Eray Hoca graduated with 2.88 GPA)
+	-Keep your resume to 1 FULL(Not %70 or something like that, mode than %90) page (or 2 FULL pages max)
+
+Verification:
+	-Proofread your CV with many people
+	-Fix errors
+	-Google yourself
+
+What Eray Hoca looks for in an interview:
+	-Potential good team player/Fun to work/Be a good fit to the team
+	-Smart
+	-Hardworking/Consistent
+	-Get sh*t done!
+	-Curious/Passionate
+	-Energetic
+	-Potential to teach Eray Hoca something
